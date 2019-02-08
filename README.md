@@ -13,7 +13,7 @@ int main(void)
 
 | name | num  |
 | ---- | ---- |
-|      |      |
+| pico | 11   |
 
 
 
